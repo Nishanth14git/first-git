@@ -1,0 +1,1 @@
+print ("actual divi:",10/2)
